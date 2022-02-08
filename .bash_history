@@ -57,3 +57,74 @@ ping google.com
 apt-get update
 su jenkins
 ping google.com
+git --version
+yum install git -y
+apt get install git -y
+apt -get install git -y
+aptget install git -y
+git --version
+apt-get update git
+apt-get update git-all
+apt-get install git-all
+apt-get update
+apt-get install git-all -y
+git --version
+apt-get update git-all
+apt-get install git
+git --version
+ll
+ls -al
+touch file1
+ls
+ll
+vi file1
+cat file1
+l
+clear
+touch file1
+cat file1
+ls
+touch file1 file2
+ls
+cat file1
+cat file2
+vi file2
+clear
+ls
+cd snap
+cd .
+ls
+cd .
+cd ..
+ls
+file 2
+clear
+cat file2
+clear
+git init
+ls -al
+ls
+vim file2
+clear
+cat file2
+git status
+git add -a
+git status
+git add.
+git add
+git add -A
+git status
+git commit -m"first commit"
+git status
+git push
+git push file1
+git status
+git push master
+ls
+ll
+clear
+git status
+git push master
+git log
+clear
+git status
